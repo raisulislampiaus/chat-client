@@ -140,7 +140,7 @@ const Login = props => {
                             onClick={() => props.handleClick('register')}
                             href="#"
                         >
-                            Don't have an account?
+                            Don't have an account? create account.
                         </Link>
                     </Typography>
                 </Grid>
